@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/2020/07/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/2020/07/hello-world/</link>
+	<atom:link href="https://dev869.github.io/bcfitness.studio/2020/07/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dev869.github.io/bcfitness.studio/2020/07/hello-world/</link>
 	<description>Maintaining a healthy community</description>
 	<lastBuildDate>Tue, 28 Jul 2020 18:00:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,7 +23,7 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>/2020/07/hello-world/#comment-1</link>
+		<link>https://dev869.github.io/bcfitness.studio/2020/07/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Tue, 28 Jul 2020 18:00:52 +0000</pubDate>
