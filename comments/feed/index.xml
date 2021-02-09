@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for BC Fitness	</title>
-	<atom:link href="https://bcfitness.studio/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://bcfitness.studio/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Maintaining a healthy community</description>
 	<lastBuildDate>Tue, 28 Jul 2020 18:00:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>https://bcfitness.studio/2020/07/hello-world/#comment-1</link>
+		<link>/2020/07/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Tue, 28 Jul 2020 18:00:52 +0000</pubDate>
