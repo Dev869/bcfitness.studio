@@ -6,3 +6,4 @@
 {"user_id":3,"user_login":"devin","user_remoteaddr":"127.0.0.1","user_hostname":"localhost","user_lastlogin":"2020-12-23 08:48:15"}
 {"user_id":3,"user_login":"devin","user_remoteaddr":"127.0.0.1","user_hostname":"localhost","user_lastlogin":"2020-12-23 20:41:24"}
 {"user_id":3,"user_login":"devin","user_remoteaddr":"127.0.0.1","user_hostname":"localhost","user_lastlogin":"2020-12-23 21:01:08"}
+{"user_id":1,"user_login":"devinwilson","user_remoteaddr":"127.0.0.1","user_hostname":"localhost","user_lastlogin":"2021-02-09 22:31:05"}
